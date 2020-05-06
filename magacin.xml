@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE Magacin SYSTEM "magacin.dtd">
+<Magacin xmlns="http://www.w3schools.com"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://www.w3schools.com magacin.xsd">
+<Artikal>
+    <Naziv sifra="2343">Cokolada</Naziv>
+    <DatumIzdrade>
+        <Dan>21</Dan>
+        <Mesec>11</Mesec>
+        <Godina>1998</Godina>
+    </DatumIzdrade>
+    <Cena tip="din">43434</Cena>
+    <KompanijaProdavca>
+        <ImeKompanije>Delhaize</ImeKompanije>
+        <Adresa>Neka Nekog 32</Adresa>
+    </KompanijaProdavca>
+    <EmailProdavca tip="privatni">mihajilomrsevic@gmail.com</EmailProdavca>
+</Artikal>
+</Magacin>
